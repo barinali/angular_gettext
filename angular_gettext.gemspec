@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'angular_gettext'
-  s.version     = '0.1.2'
+  s.version     = '0.1.3'
   s.date        = '2016-08-19'
   s.summary     = "Angular Gettext"
   s.description = "A twine formatter for angular gettext's .POs"
